@@ -18,7 +18,7 @@ public class hello {
 	 
 
 	
-        System.out.println("Hello, my name is " + firstName + lastName);
+        System.out.println("Hello, my name is " + firstName+ " " + lastName);
 
 
 
